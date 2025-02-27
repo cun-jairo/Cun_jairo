@@ -53,4 +53,4 @@ trabajar bajo presión
 | NOMBRE | URL |
 | ------ | ------ |
 | Cun_daniel-arevalo | https://github.com/cun-daniel-arevalo |
-| GitHub | [plugins/github/README.md][PlGh] |
+| CunJuanValencia | https://github.com/CunJuanValencia/CunJuanValencia |
