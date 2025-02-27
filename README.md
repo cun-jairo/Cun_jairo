@@ -9,6 +9,7 @@ Tengo 23 años, soy estudiante de primer semestre de ingenieria en sistemas. Ten
 ##### Cajero.
 
 Distribuidora de Pollos KAJU
+
 2019-2022
 - Trabaje por 4 años en un minimercado ubicado en la
 ciudad de Ibague, tengo experiencia en servicio al cliente.
@@ -16,6 +17,7 @@ ciudad de Ibague, tengo experiencia en servicio al cliente.
 ##### Salvavidas
 
 Winkler Pool Management
+
 2023-2024
 - Fui salvavidas de una empresa ubicada en Maryland -
 Estados Unidos dos años consecutivos, donde aprendí
@@ -23,6 +25,8 @@ diferentes habilidades como trabajar bajo presión, resolver
 problemas y estar prevenido ante cualquier adversidad.
 
 ##### Auxiliar de cocina
+
+McDonalds
 
 2023-2024
 - Fui auxiliar de cocina en una franquicia de la empresa
